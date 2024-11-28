@@ -155,7 +155,7 @@ margin-bottom: 20px;
     font-weight:600 ;
 }
 .experience-img img{
-    width: 100%;
+    /* width: 100%; */
 }
 .some-fects{
     max-width: 1440px;
@@ -283,6 +283,9 @@ padding: 0px;
     .experience{
          flex-direction: column;
 
+    }
+    .experience-img img{
+        width: 100%;
     }
     #experience-badge{
         margin-top: 20px;
